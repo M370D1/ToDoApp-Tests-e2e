@@ -1,6 +1,6 @@
 # ToDoApp-Tests-e2e
 
-This repository contains automated end-to-end tests for the ToDoApp (https://github.com/M370D1/ToDoApp.git). The tests are implemented using JavaScript/TypeScript and Playwright for comprehensive quality assurance.
+This repository contains automated end-to-end tests for my ToDoApp (https://github.com/M370D1/ToDoApp.git). The tests are implemented using JavaScript/TypeScript and Playwright for comprehensive quality assurance.
 
 ## Overview
 
