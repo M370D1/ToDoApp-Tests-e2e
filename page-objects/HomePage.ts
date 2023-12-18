@@ -1,5 +1,7 @@
 import { expect, Locator, Page } from "@playwright/test"
 
+const baseUrl = 'http://127.0.0.1:8000'
+
 export class HomePage {
     readonly page: Page
     readonly usernameInput: Locator
@@ -26,7 +28,7 @@ export class HomePage {
     }
 
     async visit() {
-        await this.page.goto('http://127.0.0.1:8000')
+        await this.page.goto(baseUrl)
     }
 
     async clickOnRegisterButton() {

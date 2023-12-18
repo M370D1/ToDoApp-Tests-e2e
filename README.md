@@ -14,7 +14,7 @@ To run the automated tests locally, follow these steps:
 1. Clone this repository: `git clone https://github.com/M370D1/ToDoApp-Tests-e2e.git`
 2. Navigate to the project directory: `cd ToDoApp`
 3. Install dependencies: `npm install`
-4. Run the tests: `npm run test:e2e`
+4. Run the tests: `npm run tests:e2e`
 
 Use code editor Visual Studio Code.
 Ensure that you have the necessary dependencies installed, including Node.js and Playwright.
